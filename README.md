@@ -1,4 +1,4 @@
-# Hello World, I am Veeresh <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hi ! and ..I'm ...Phaneesh <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### Still Learning . . . 
 
@@ -38,9 +38,9 @@
 
 ## 🏆 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Veeresh-R-G&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=phaneesh707&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Veeresh-R-G&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaneesh707&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Veeresh-R-G&theme=tokyonight)](https://git.io/streak-stats)
 
