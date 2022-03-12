@@ -48,11 +48,11 @@ I'm a student and passionate programmer always eager to learn and grow.
 ## 🏆 GitHub Stats
 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PavanNettam&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=phaneesh707&count_private=true&theme=tokyonight&showicons=true)]()
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanNettam&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaneesh707&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PavanNettam&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phaneesh707&theme=tokyonight)](https://git.io/streak-stats)
 
 # Productivity Stats📈:
 <table>
