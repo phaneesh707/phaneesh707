@@ -1,7 +1,8 @@
 # Hi ! and ..I'm ...Phaneesh <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### 
-<!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaneesh707&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Phaneehs" /></a></p> -->
+I'm a student and passionate programmer always eager to learn and grow.
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaneesh707&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Phaneehs" /></a></p>
 
 <!-- <p align="center">
   <img src="https://github.com/phaneesh707/phaneesh707/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
