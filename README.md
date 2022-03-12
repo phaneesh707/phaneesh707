@@ -46,17 +46,12 @@
 
 ## 🏆 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=phaneesh707&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phaneesh707&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
-   </tr> 
-   <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=phaneesh707&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=phaneesh707&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
-  </td>
-  </tr>
-</table>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=PavanNettam&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanNettam&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PavanNettam&theme=tokyonight)](https://git.io/streak-stats)
 
 # Productivity Stats📈:
 <table>
