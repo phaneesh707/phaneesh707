@@ -37,14 +37,14 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
 
+
+
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=phaneesh707&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaneesh707&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+
+
 ## 🏆 GitHub Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=phaneesh707&count_private=true&theme=tokyonight&showicons=true)]()
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phaneesh707&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-
-# Github Activity📊:
 
 <table>
   <tr>
@@ -53,7 +53,7 @@
    </tr> 
    <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=phaneesh707&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td>
-     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=mindwrapper&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
+     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=phaneesh707&custom_title=Language%20Stats&layout=compact&theme=tokyonight" align="right" display=block width=100% height=auto  alt="4"  >
   </td>
   </tr>
 </table>
