@@ -1,11 +1,11 @@
 # Hi ! and ..I'm ...Phaneesh <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaneesh707&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Phaneehs" /></a></p>
+<!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaneesh707&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Phaneehs" /></a></p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/phaneesh707/phaneesh707/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
 
 ## 👨‍💻 Languages 
 
@@ -17,7 +17,7 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+
 
 ## 🧰 Libraries and Frameworks
 
