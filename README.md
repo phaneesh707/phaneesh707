@@ -1,8 +1,8 @@
-# Hi ! and ..I'm ...Phaneesh <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hey there ! I am Phaneesh <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 ### 
-I'm a student and passionate programmer always eager to learn and grow.
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaneesh707&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Phaneehs" /></a></p>
+I'm a student and passionate programmer with keen interests in Algorithems and web development.
+<!-- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phaneesh707&theme=dracula&column=4&margin-w=15&margin-h=15" alt="Phaneehs" /></a></p> -->
 
 <!-- <p align="center">
   <img src="https://github.com/phaneesh707/phaneesh707/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
@@ -54,7 +54,7 @@ I'm a student and passionate programmer always eager to learn and grow.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phaneesh707&theme=tokyonight)](https://git.io/streak-stats)
 
-# Productivity Stats📈:
+<!-- # Productivity Stats📈:
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phaneesh707&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
@@ -63,7 +63,7 @@ I'm a student and passionate programmer always eager to learn and grow.
       <td><img src="https://activity-graph.herokuapp.com/graph?username=phaneesh707&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true"  display=block width=100% height=auto alt="3" ></td>
   </td>
   </tr>
-</table>
+</table> -->
 
 ## 📩 Contact me
 
